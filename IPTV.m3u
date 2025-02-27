@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 group-title="CR" ,Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
+#EXTINF:0 group-title="CR" ,Canal 36 Trivision
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:0 group-title="CR" ,Repretel Canal 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0 group-title="CR" ,Repretel Canal 6
+https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
+#EXTINF:0 group-title="CR" ,Teletica Canal 7
+https://acceso.radiosportstv.online:3203/stream/play.m3u8
+#EXTINF:0 group-title="CR" ,Telediario Canal 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0 group-title="CR" ,Canal 10
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:0 group-title="CR" ,TeleSur TV
+https://s1.tvdatta.com:3582//live//telesurlive.m3u8
+#EXTINF:0 group-title="CR" ,Sinart Canal 13
+https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
+#EXTINF:0 group-title="CR" ,TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8
+#EXTINF:0 group-title="CR" ,Opa Canal 38
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Extrema TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w83924531.m3u8
+#EXTINF:0 group-title="CR" ,Turrialba TV Canal 18
+https://acceso.radiosportstv.online:3151/hybrid/play.m3u8
+#EXTINF:0 group-title="CR" ,Zurqui TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:0 group-title="CR" ,Repretel Canal 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0 group-title="CR" ,San Vito TV
+https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
+#EXTINF:0 group-title="CR" ,TVN Canal 14
+https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:0 group-title="CR" ,Guatuso TV
+https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist_w1378355567.m3u8
+#EXTINF:0 group-title="CR" ,Colosal TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:0 group-title="CR" ,VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Canal 1
+https://video20.klm99.com:3993/hybrid/play.m3u8
+#EXTINF:0 group-title="CR" ,TV Nosara
+https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+#EXTINF:0 group-title="CR" ,KMK Canal 3
+https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="CR" ,Zona TV Music
+https://cloudvideo.servers10.com:8081/8234/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="CR" ,TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:0 group-title="CR" ,Coto Brus TV
+https://stmv4.tropicalmoonmedia.com/coto/coto/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Garabito TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+#EXTINF:0 group-title="CR" ,Enlace TV
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:0 group-title="CR" ,Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+#EXTINF:0 group-title="CR" ,Puerto TV
+https://cloudvideo.servers10.com:8081/8256/index.m3u8
+#EXTINF:0 group-title="CR" ,88 Stereo TV
+https://59ef525c24caa.streamlock.net/CableLatino/88stereo/chunklist_w592847741.m3u8
+#EXTINF:0 group-title="CR" ,Tele UNO TV
+https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1208228634.m3u8
+#EXTINF:0 group-title="CR" ,Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Tele Brunca TV
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Limon TV
+https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8
+#EXTINF:0 group-title="CR" ,San Jose TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:0 group-title="CR" ,VoiceOver TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:0 group-title="CR" ,Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:0 group-title="CR" ,Colosal TV
+https://5eac7b031d945.streamlock.net//canal3//canal3//chunklist_w689780707.m3u8
+#EXTINF:0 group-title="CR" ,GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="CR" ,TV Tica
+https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
+#EXTINF:0 group-title="CR" ,Retrox TV
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
