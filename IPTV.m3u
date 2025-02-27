@@ -51,6 +51,8 @@ https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8234/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CR" ,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:0 group-title="CR" ,Telered TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleredmastv/playlist.m3u8
 #EXTINF:0 group-title="CR" ,Coto Brus TV
 https://stmv4.tropicalmoonmedia.com/coto/coto/playlist.m3u8
 #EXTINF:0 group-title="CR" ,Garabito TV
